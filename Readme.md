@@ -1,3 +1,8 @@
+-=(Galivan_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # Cosmo Police Galivan for MiSTerFPGA
 
 ## General description
